@@ -15,6 +15,9 @@ the library meant that a) they knew or wanted to learn React and b) they were re
 digging in to the documentation for [Instructure UI](https://instructure.design), which isn't particularly
 friendly for the uninitiated. 
 
+And maybe someday someone at Instructure will get assigned to work on it. Maybe they already have. They're pretty quick over there. 
+But I'm really impatient in some contexts. 
+
 Full disclosure, I'm imagining this guide and apparently simultaneously wishing it into existence because it would have
 been really helpful for me, especially now and in the future. 
 
