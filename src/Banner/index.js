@@ -46,9 +46,12 @@ class Banner extends Component {
             <Text size="large">Feel free to look around and check stuff out. </Text>
             <Text size="large">
               <Text weight="bold"
-                    size="large">App.js</Text>
-               already got edited, but let's see how far we can take this together! Hopefully you don't mind getting roped into
-              this.</Text>
+                    size="large">
+                App.js
+              </Text>
+              is already edited, but let&apos;s see how far we can take this together!
+              Hopefully you don&apos;t mind getting roped into this.
+            </Text>
           </View>
         </div>
       </View>
